@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClInclude Include="MconsolUtil.hpp" />
     <ClInclude Include="MGameLoop.hpp" />
+    <ClInclude Include="Monster.hpp" />
+    <ClInclude Include="over.hpp" />
+    <ClInclude Include="Player.hpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadME.txt" />
